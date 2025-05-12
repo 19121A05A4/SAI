@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sai Katari
+# 👤 Hi, I'm Sai Katari
 
 I'm a Computer Science graduate student at the University of Kansas, passionate about building intelligent systems and automation tools.
 
