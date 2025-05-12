@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @SAI
-
--🎓 MS in Computer Science @ University of Kansas | AI & NLP Enthusiast | Python • ML • Web Dev
-
 # 👋 Hi, I'm Sai Katari
 
-I'm a Computer Science graduate student at the University of Kansas with a passion for building intelligent systems and automation tools.
+I'm a Computer Science graduate student at the University of Kansas, passionate about building intelligent systems and automation tools.
 
 ### 🚀 Projects
 - **[Jarvis – AI Voice Assistant]**  
@@ -22,4 +18,4 @@ I'm a Computer Science graduate student at the University of Kansas with a passi
 - 5★ in Python and Problem Solving – HackerRank  
 - 100+ coding challenges solved  
 
-📫 [LinkedIn](https://linkedin.com/in/sai2) • 📍 Lawrence, KS
+📫 [LinkedIn](https://www.linkedin.com/in/sai-katari-40b454364/) • 📍 Lawrence, KS
